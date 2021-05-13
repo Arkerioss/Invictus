@@ -235,3 +235,17 @@ zhangzhung_heritage = {
 		tag = ZHZ
 	}
 }
+bactrian_heritage = {
+	modifier = {
+		#good
+		global_pop_assimilation_speed_modifier = 0.15
+		global_commerce_modifier = 0.10
+		
+		#bad
+		levy_size_multiplier = -0.015
+	}
+	
+	trigger = {
+		tag = BAC
+	}
+}
