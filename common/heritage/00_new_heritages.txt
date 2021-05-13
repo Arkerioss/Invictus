@@ -242,7 +242,7 @@ bactrian_heritage = {
 		global_commerce_modifier = 0.10
 		
 		#bad
-		levy_size_multiplier = -0.010
+		levy_size_multiplier = -0.015
 	}
 	
 	trigger = {
